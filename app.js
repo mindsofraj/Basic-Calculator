@@ -9,7 +9,7 @@ let result= ()=>{
         display.value = eval(display.value)
     }
     catch(err){
-        alert("Machi, This Invalid Input")
+        alert("Machi, This is Invalid Input")
     }
 }
 
